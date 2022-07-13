@@ -1,0 +1,15 @@
+p {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+ul {
+    margin-top: 0px;
+    margin-left: 0px;
+}
+table, td, th, tr {
+    text-align: right;
+    border: 1px solid black ;
+}
+table {
+    border-collapse: collapse ;
+}

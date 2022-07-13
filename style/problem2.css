@@ -1,0 +1,40 @@
+h1 {
+    text-align: left;
+    margin: 0;
+    padding: 20px 0;
+    color: red;
+}
+h2 {
+    text-align: right;
+    margin: 0;
+    padding: 20px 0;
+    color: green;
+}
+h3 {
+    text-align: center;
+    margin: 0;
+    color: blue;
+}
+h4 {
+    text-align: center;
+    margin: 10px;
+    color: blue;
+}
+p.dotted {
+    text-align: left;
+    font-style: italic ;
+    color: darkturquoise ;
+    border: 2px solid blue;
+}
+p.dotted1 {
+    text-align: center;
+    font-weight: bold ;
+    color: darkolivegreen ;
+    border: 3px dotted coral;
+}
+p.dotted2 {
+    text-align: right;
+    font-size: large ;
+    color: darkmagenta ;
+    border:  4px dashed yellow;
+}

@@ -1,0 +1,59 @@
+body {
+    margin: 5;
+}
+ul.upper {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 40px;
+    overflow: hidden;
+    background-color: #111;
+}
+ul.circle {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: bold ;
+    color: black ;
+}
+li a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a.active {
+    float: left;
+    background-color: purple;
+}
+li a:hover {
+    float: left;
+    color: black;
+    background-color: yellow;
+}
+p.line {
+    text-align: left;
+    font-size: bold ;
+    color: black ;
+    border:  6px solid blue;
+    background-color: skyblue;
+    padding: 5px;
+    width: 200px;
+}
+p {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+p.line2 {
+    text-align: left;
+    font-size: bold ;
+    color: black ;
+    border:  6px solid green;
+    background-color: #91f092;
+    padding: 5px;
+    width: 200px;
+}
+ol {
+    margin-top: 20px;
+    margin-left: 20px;
+}
