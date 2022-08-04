@@ -1,0 +1,22 @@
+body {
+    margin: 5;
+}
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: #000000;
+}
+p {
+    font-size: 70px;
+    margin: 0;
+    padding: 20px 5px;
+    color: #000000;
+}
+li {
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 40px ;
+    color: black ;
+}
